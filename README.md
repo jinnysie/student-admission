@@ -330,7 +330,8 @@ student-admission/
 │   └── 06_test_attempts_by_date
 │
 └── result/
-    └── student_registration_cleaned.csv
+    ├── student_registration_cleaned.csv
+    └── invalid_nisn.csv
 
 ```
 

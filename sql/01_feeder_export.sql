@@ -20,6 +20,7 @@ SELECT
     ar.full_name,
     ar.program,
     ar.birth_place,
+    ar.birth_date,
     ar.gender,
     ar.phone_number,
     ar.nationality,
